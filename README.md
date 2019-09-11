@@ -1,4 +1,2 @@
-# This is a simple credit card design inspired checkout form. 
-
-# Written in HTML & CSS
-# Mockup done
+# This is a simple credit card design inspired checkout form.
+![alt text](https://github.com/sinhard/checkout-form/blob/master/docs/Screen%20Shot%202019-09-11%20at%202.50.09%20AM.png)
